@@ -1,0 +1,8 @@
+.gradle/*
+.idea/*
+build/*
+out/*
+supervisord.pid
+.java-version
+*.hprof
+/node_modules
